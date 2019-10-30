@@ -28,8 +28,7 @@ Location Greater Seattle Area
 ### Working on a Project: Email team, voice mail, assist with translation, work on different and most complex case mass action. Representing goverment entities, large enterprises.
 
 # Booking.com
-
-* ## Position: Senior/Supervisor CS Executive
+## Position: Senior/Supervisor CS Executive
 
 _Dates_ Employed: Jan 2017 – Nov 2017
 
