@@ -100,12 +100,13 @@ Volunteer duration 1 year
 ### Innovator of the organization and first President of Congolese of Brazzaville in WA State from 05/08 2013-01/08/2014.
 ### Election coming soon.
 
-# Skills & Endorsements
+# Skills
 
 * HTML  
 * CSS
 * Javascript
 * Python
+* Visual Studio Code
 * Azure Cloud expert
 * Microsoft Project
 
