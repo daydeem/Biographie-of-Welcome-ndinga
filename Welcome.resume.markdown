@@ -7,6 +7,20 @@ email: daydeem@yahoo.fr, v-wendi@microsoft.com
 
 ## **Experience**
 
+# Group NDINGA
+
+**Owner**
+
+Company Name: Group NDINGA Self-employed
+
+Dates Employed Jun 2014 – now
+
+Location: Republic of Congo
+### Group NDINGA is a small IT Business Located in Brazzaville city of Congo.
+### Welcome NDINGA is the Owner and lives in Seattle Washington.
+### Welcome NDINGA Provide Leadership, counseling, innovation and orientation.
+Group Ndinga
+
 # Microsoft/Mindtree software Company
 ## Position: Cloud Engineer
 
@@ -64,20 +78,6 @@ Location: Redmond
 **Job Description:**
 
 ### Usage of phone, Troubleshooting modem, router, or network using IP address, DNS, Resetting Nintendo Gaming devises CMD, Wii, Wii U, Great understanding of Nintendo products, processing repair. Daily usage of computer hardware and software MS Excel and oracle database software. CRM... See more
-
-# Group NDINGA
-
-**Owner**
-
-Company Name: Group NDINGA Self-employed
-
-Dates EmployedJun 2014 – Apr 2015
-
-Location: Republic of Congo
-### Group NDINGA is a small IT Business Located in Brazzaville city of Congo.
-### Welcome NDINGA is the Owner and lives in Seattle Washington.
-### Welcome NDINGA Provide Leadership, counseling, innovation and orientation.
-Group Ndinga
 
 
 # Education
