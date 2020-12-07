@@ -1,7 +1,7 @@
 _****This** is my Markdown Resume**_
 
 # Welcome NDINGA
-3405 S 176th st apt 215 seatac WA 98188
+3117 s 192nd st apt C102 seatac WA 98188
 Phone: 2062007182
 email: daydeem@yahoo.fr, v-wendi@microsoft.com
 
@@ -10,7 +10,7 @@ email: daydeem@yahoo.fr, v-wendi@microsoft.com
 # Microsoft/Mindtree software Company
 ## Position: Cloud Engineer
 
-_Dates Employed: Feb 2018 – Present_
+_Dates Employed: Feb 2018 – Mar 2020_
 
 Location: Redmond, Washington
 
@@ -90,15 +90,14 @@ Group Ndinga
 Achievement GPA: 3.45
 
 # Volunteer Experience
-## Congolese of brazzaville In washington State association
-Congolese Leader in Washington State
+## non-profit: Congolese Youth In washington State 
+President of Congolese Youth in Washington State
 
-_Dates volunteered: Apr 2013 _
+_Dates volunteered: Apr 2020  _ now
 Volunteer duration 1 year
 
 ### CauseCivil Rights and Social Action
 ### Innovator of the organization and first President of Congolese of Brazzaville in WA State from 05/08 2013-01/08/2014.
-### Election coming soon.
 
 # Skills
 
@@ -111,6 +110,13 @@ Volunteer duration 1 year
 * Microsoft Project
 
 # Accomplishments
+
+* Certificate in Microsoft Azure Fundamental 
+* Certificate in Google Cloud Platform
+* Certificate in Google Cloud Security
+* Certificate in Leadership 
+* Diploma in Project Management from IBM Institute
+* Several badges and Throphies earned from Microsoft Documentation training site: https://docs.microsoft.com/en-us/users/daydeem83/achievements
 
 ### languages:
 
