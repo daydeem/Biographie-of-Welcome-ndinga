@@ -106,7 +106,7 @@ Volunteer duration 1 year
 * Javascript
 * Python
 * Visual Studio Code
-* Azure Cloud expert
+* Azure and Google Cloud expert
 * Microsoft Project
 
 # Accomplishments
