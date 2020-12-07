@@ -21,7 +21,7 @@ Location: Republic of Congo
 ### Welcome NDINGA Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
 Group Ndinga
 
-# Microsoft/Mindtree software Company
+# Mindtree software Company
 ## Position: Cloud Engineer
 
 _Dates Employed: Feb 2018 – Mar 2020_
