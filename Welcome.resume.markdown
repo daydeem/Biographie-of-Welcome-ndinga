@@ -16,9 +16,9 @@ Company Name: Group NDINGA Self-employed
 Dates Employed Jun 2014 – now
 
 Location: Republic of Congo
-### Group NDINGA is a small IT Business Located in Brazzaville city of Congo.
+### Group NDINGA is a service Business Located in Brazzaville city of Congo.
 ### Welcome NDINGA is the Owner and lives in Seattle Washington.
-### Welcome NDINGA Provide Leadership, counseling, innovation and orientation.
+### Welcome NDINGA Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
 Group Ndinga
 
 # Microsoft/Mindtree software Company
