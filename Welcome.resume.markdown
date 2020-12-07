@@ -3,7 +3,7 @@ _****This** is my Markdown Resume**_
 # Welcome NDINGA
 3117 s 192nd st apt C102 seatac WA 98188
 Phone: 2062007182
-email: daydeem@yahoo.fr, v-wendi@microsoft.com
+email: daydeem@yahoo.fr
 
 ## **Experience**
 
