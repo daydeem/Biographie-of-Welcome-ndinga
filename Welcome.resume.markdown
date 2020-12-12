@@ -16,15 +16,15 @@ Company Name: Group NDINGA Self-employed
 Dates Employed Jun 2014 – now
 
 Location: Republic of Congo
-### Group NDINGA is a service Business Located in Brazzaville city of Congo.
-### Welcome NDINGA is the Owner and lives in Seattle Washington.
+### GROUP NDINGA is a service Business Located in Brazzaville city of Congo.
+### Mr Welcome NDINGA is the Sr Technical Project manager and lives in Seattle Washington.
 ### Welcome NDINGA Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
 Group Ndinga
 
 # Mindtree software Company
 ## Position: Cloud Engineer
 
-_Dates Employed: Feb 2018 – Mar 2020_
+_Dates Employed: Feb 2018 – Feb 2020_
 
 Location: Redmond, Washington
 
@@ -104,7 +104,7 @@ Volunteer duration 1 year
 * HTML  
 * CSS
 * Javascript
-* Python
+* Python ( Learning )
 * Visual Studio Code
 * Azure and Google Cloud expert
 * Microsoft Project
