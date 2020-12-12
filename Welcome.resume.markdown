@@ -111,7 +111,9 @@ Volunteer duration 1 year
 
 # Accomplishments
 
-* Certificate in Microsoft Azure Fundamental 
+* Certificate in Microsoft Azure Fundamental with Microsoft.
+* Certificate in Microsoft Office 365 with Linkdin on managing Identities with Microsoft Azure AD Connect
+* Certificate in Digital Transformation
 * Certificate in Google Cloud Platform
 * Certificate in Google Cloud Security
 * Certificate in Leadership 
