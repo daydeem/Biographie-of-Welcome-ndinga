@@ -32,14 +32,23 @@ Location: Redmond, Washington
 ### Microsoft Azure, Cloud Computing, Virtualization, Networking, Active Directory, Subscription and Enterprise, live and azure Account management, Azure storage, Blob, table, queue, containers, sql, VM', deployment, great understanding of azure infrastructure. Saas, Paas and Iaas.
 
 # JND Legal Administration
-## Position: Program Administrator- French Canadian -Contract
+## Position: System Administrator- French Canadian -Contract
 
 _Dates_ Employed: Nov 2017 – Feb 2018
 
 Location Greater Seattle Area
 
 **Job description:**
-### Working on a Project: Email team, voice mail, assist with translation, work on different and most complex case mass action. Representing goverment entities, large enterprises.
+### Provide technical support for both hardware and software issue our users encounter
+### Manage the configuration and operation of client-based computer operating systems
+### Monitor the system daily and respond immediately to security or usability concerns
+### Create and verify backups of data
+### Respond to and resolve help desk requests
+### Upgrade systems and processes as required for enhanced functionality and security issue resolution
+### Administrate infrastructure, including firewalls, databases, malware protection software and other processes
+### Review application logs
+### Install and test computer-related equipment
+### Email team, voice mail setup and configuration; VOIP
 
 # Booking.com
 ## Position: Senior/Supervisor CS Executive
