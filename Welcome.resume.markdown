@@ -121,10 +121,13 @@ Volunteer duration 1 year
 # Accomplishments
 
 * Certificate in Microsoft Azure Fundamental with Microsoft.
+* Certificate in Microsoft Azure Infrastructure. 
+* Certificate in Microsoft Azure Virtual Machine and Web deployment
 * Certificate in Microsoft Office 365 with Linkdin on managing Identities with Microsoft Azure AD Connect
 * Certificate in Digital Transformation
 * Certificate in Google Cloud Platform
 * Certificate in Google Cloud Security
+* Certificate in Google Cloud Securities best practices
 * Certificate in Leadership 
 * Diploma in Project Management from IBM Institute
 * Several badges and Throphies earned from Microsoft Documentation training site: https://docs.microsoft.com/en-us/users/daydeem83/achievements
