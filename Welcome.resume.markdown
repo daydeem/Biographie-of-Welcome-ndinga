@@ -17,17 +17,17 @@ Dates Employed Jun 2014 – now
 
 Location: Republic of Congo
 ### GROUP NDINGA is a service Business Located in Brazzaville city of Congo.
-### Mr Welcome NDINGA is the Sr Technical Project manager and lives in Seattle Washington.
-### Welcome NDINGA Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
+### Welcome NDINGA is the Sr Technical Project manager and lives in Seattle Washington.
+• Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
 Group Ndinga
 
 # Mindtree software Company
 ### Microsoft Vendor from Feb 2018 – Mar 2020
 Azure Support Engineer
 Roles and Responsibilities:
-Performed redesign of the destination AD and Azure AD and implement azure active directory (RBAC Roles, Policies, 
+• Performed redesign of the destination AD and Azure AD and implement azure active directory (RBAC Roles, Policies, 
 Group, Users role and permission and navigate within azure portal, reset password and more)
-Guide with the storage type: table blob or queue to deploy and SQL database to choose from Relational or non-Relational 
+• Guide with the storage type: table blob or queue to deploy and SQL database to choose from Relational or non-Relational 
 database.
 • Design and develop Azure AD features using Windows Azure, Active Directory, Cloud Computing Platform & Services 
 • Exposure to GCP projects/ GCP IAM, Policies, Kubernetes, Containers and ML
@@ -73,10 +73,25 @@ Location: Bellevue
 
 **Job description:**
 
-1. ### Handle escalated calls from customer service agents when needed to support guests or partners,
-2. ### Ensure procedure and policy are followed by Customer services agents when they need help.
-3. ### Problem solving and dealing with difficult escalated calls of angry customer.
-4. ### Approval to relocate the guest when customer service agents are lim
+• Handle escalated calls from customer service agents when needed to support guests or partners.
+• Ensure procedure and policy is followed by Customer services agents when they need help. 
+• Problem solving and dealing with difficult escalated calls of angry customer. 
+• Handle mass issue, approval to relocate the guest when customer service agents are limited 
+• Ensure that the company’s customer database is properly entered and kept in a way that whenever any information is 
+needed in the future, it can be easily accessed 
+• Ensure customer care service standard of the company is strictly adhered by every customer service personnel 
+• Participate in recruiting and training of fresh customer service employees 
+• Respond to inquiries and queries from customers and provide a speedy resolve 
+• Handle complicated and unresolved issues from less experienced personnel 
+• Deliver appropriate and relevant information, and when not in the position to, refers customer(s) to appropriate 
+department 
+• Supervise the activities of lesser customer service representatives in the accomplishment of customer care goals 
+• Participate in implementation or improvement of initiatives associated with customer service 
+• Establish standards for best customer support practices 
+• Offers advice on the incorporation of technology in current and planned customer support strategies of the 
+organization 
+• Investigate and respond to every inquiry and complaints from customer regarding company’s services 
+• Ensure satisfaction of customer needs to the best possible way 
 
 # Booking.com
 
@@ -88,7 +103,8 @@ Location: Bellevue, Washington
 
 **Job Description:** 
 
-### French speaking, Emailing customer, solving complaint, answering the phone, escalating calls when necessary, controlling conversation with angry customer, using computer, phone system and data base for data entry.
+• French speaking, Email customer, solving complaint, answering the phone, escalating calls when necessary, 
+controlling conversation with angry customer, using computer, phone system and data base for data entry.
 
 
 # Nintendo of america 
@@ -100,7 +116,10 @@ Location: Redmond
 
 **Job Description:**
 
-### Usage of phone, Troubleshooting modem, router, or network using IP address, DNS, Resetting Nintendo Gaming devises CMD, Wii, Wii U, Great understanding of Nintendo products, processing repair. Daily usage of computer hardware and software MS Excel and oracle database software. CRM... See more
+• Usage of phone, troubleshooting modem, router, or network using IP address, DNS, Resetting Nintendo Gaming 
+devises CMD, Wii, Wii U, Great understanding of Nintendo products, processing repair.
+• Daily usage of computer hardware and software MS Excel and oracle database software. CRM
+
 
 
 # Education
@@ -109,7 +128,7 @@ Location: Redmond
 **Degree Name:** Associate Applied SciencesField Of StudyComputer Systems Networking and information system security
 
 ## Courses:
-### Network security, A+ computer build up, server, Linux Ubundu, Xubundu, operation system, OS, virus removal, web development, active directory.
+• Network security, A+ computer build up, server, Linux Ubundu, Xubundu, operation system, OS, virus removal, web development, active directory.
 Achievement GPA: 3.45
 
 # Volunteer Experience
@@ -119,7 +138,7 @@ President of Congolese Youth in Washington State
 _Dates volunteered: Apr 2020  _ now
 Volunteer duration 1 year
 
-### CauseCivil Rights and Social Action
+### Cause Civil Rights and Social Action
 ### Innovator of the organization and first President of Congolese of Brazzaville in WA State from 05/08 2013-01/08/2014.
 
 # Skills
@@ -130,7 +149,7 @@ Volunteer duration 1 year
 * Python ( Learning )
 * Visual Studio Code
 * Azure and Google Cloud expert
-* Microsoft Project
+* Microsoft Project and office 365
 
 # Accomplishments
 
