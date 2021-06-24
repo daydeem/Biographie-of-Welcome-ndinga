@@ -22,14 +22,28 @@ Location: Republic of Congo
 Group Ndinga
 
 # Mindtree software Company
-## Position: Cloud Engineer
-
-_Dates Employed: Feb 2018 – Feb 2020_
-
-Location: Redmond, Washington
-
-**Job Description:**
-### Microsoft Azure, Cloud Computing, Virtualization, Networking, Active Directory, Subscription and Enterprise, live and azure Account management, Azure storage, Blob, table, queue, containers, sql, VM', deployment, great understanding of azure infrastructure. Saas, Paas and Iaas.
+### Microsoft Vendor from Feb 2018 – Mar 2020
+Azure Support Engineer
+Roles and Responsibilities:
+Performed redesign of the destination AD and Azure AD and implement azure active directory (RBAC Roles, Policies, 
+Group, Users role and permission and navigate within azure portal, reset password and more)
+Guide with the storage type: table blob or queue to deploy and SQL database to choose from Relational or non-Relational 
+database.
+• Design and develop Azure AD features using Windows Azure, Active Directory, Cloud Computing Platform & Services 
+• Exposure to GCP projects/ GCP IAM, Policies, Kubernetes, Containers and ML
+• Provided cloud production environment support and incident management.
+• Continuous monitoring of incident queue for unassigned tickets, tracking of incidents and re-routing and supported 
+enterprise customers, partners and engineers.
+• Scoped customer's issues and support boundaries by collecting the relevant facts.
+• Collaborated with engineering to resolve service issues and produce bug fixes, patches, and test cases.
+• Help IT Administrators, architects and Engineer with deploying azure within their organization.
+• Ensured support request were handled per SLAs with highest possible customer satisfaction.
+• Helped choosing the right virtual Machine type, size, and region to limit the cost of the organization also with advising 
+on reserve instance.
+• Helped administrator choosing the right subscription type from Pay As You Go, MPN, and other subscription type; 
+documented technical work and research in a detailed and comprehensive manner.
+• Maintained a proactive approach to customer happiness, identifying and correcting customer satisfaction concerns 
+before they become problems
 
 # JND Legal Administration
 ## Position: System Administrator- French Canadian -Contract
@@ -39,16 +53,16 @@ _Dates_ Employed: Nov 2017 – Feb 2018
 Location Greater Seattle Area
 
 **Job description:**
-### Provide technical support for both hardware and software issue our users encounter
-### Manage the configuration and operation of client-based computer operating systems
-### Monitor the system daily and respond immediately to security or usability concerns
-### Create and verify backups of data
-### Respond to and resolve help desk requests
-### Upgrade systems and processes as required for enhanced functionality and security issue resolution
-### Administrate infrastructure, including firewalls, databases, malware protection software and other processes
-### Review application logs
-### Install and test computer-related equipment
-### Email team, voice mail setup and configuration; VOIP
+• Provide technical support for both hardware and software issue our users encounter
+• Manage the configuration and operation of client-based computer operating systems
+• Monitor the system daily and respond immediately to security or usability concerns
+• Create and verify backups of data
+• Respond to and resolve help desk requests
+• Upgrade systems and processes as required for enhanced functionality and security issue resolution
+• Administrate infrastructure, including firewalls, databases, malware protection software and other processes
+• Review application logs
+• Install and test computer-related equipment
+• Email team, voice mail setup and configuration; VOIP
 
 # Booking.com
 ## Position: Senior/Supervisor CS Executive
