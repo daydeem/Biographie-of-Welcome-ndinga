@@ -1,4 +1,4 @@
-_****This** is my Markdown Resume**_
+_****This** is my Resume**_
 
 # Welcome NDINGA
 3117 s 192nd st apt C102 seatac WA 98188
