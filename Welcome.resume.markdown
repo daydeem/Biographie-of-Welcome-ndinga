@@ -7,20 +7,6 @@ email: daydeem@yahoo.fr
 
 ## **Experience**
 
-# Group NDINGA
-
-**Owner**
-
-Company Name: Group NDINGA Self-employed
-
-Dates Employed Jun 2014 – now
-
-Location: Republic of Congo
-### GROUP NDINGA is a service Business Located in Brazzaville city of Congo.
-### Welcome NDINGA is the Sr Technical Project manager and lives in Seattle Washington.
-• Provide Leadership, counseling, innovation and orientation through project management skills using Microsoft Tools like Microsoft Project.
-Group Ndinga
-
 # Mindtree software Company
 ### Microsoft Vendor from Feb 2018 – Mar 2020
 Azure Support Engineer
